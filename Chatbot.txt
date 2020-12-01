@@ -1,0 +1,91 @@
+*********************************************************************
+Tue Nov 24 22:48:40 2020
+*********************************************************************
+Name of the user:Jai Singh Surya
+Questions asked by the user:-
+>>How you doin
+>>Fine 
+>>Fine
+>>quit
+The number of questions which Ciphor failed to understand:1
+*********************************************************************
+Wed Nov 25 00:30:21 2020
+*********************************************************************
+Name of the user:Arun Kumar Dwivedi
+Questions asked by the user:-
+>>Hi
+>>How are you
+>>I am also fine
+>>Tell me something about UPES
+>>What courses do you offer
+>>Tell me about the CCVT branch
+>>Tell_me_about_the_CCVT_branch
+>>kjhf
+>>Thanks Ciphor
+>>quit
+Rating given by user (1-Good  2-Average 3-Poor):2
+Queries resolved (1-Yes 2-No):2
+Fluency (1-Yes 2-No):1
+The number of questions which Ciphor failed to understand:1
+*********************************************************************
+Wed Nov 25 00:41:58 2020
+*********************************************************************
+Name of the user:Jalaj Dwivedi
+Questions asked by the user:-
+>>quit
+The number of questions which Ciphor failed to understand:0
+*********************************************************************
+Thu Nov 26 11:52:02 2020
+*********************************************************************
+Name of the user:jhxfgjsfb
+Questions asked by the user:-
+>>Tell me about the branches of CS
+>>1
+>>Tell me about the branches
+>>8
+>>quit
+The number of questions which Ciphor failed to understand:1
+*********************************************************************
+Thu Nov 26 11:54:59 2020
+*********************************************************************
+Name of the user:Arun Kumar Vyas
+Questions asked by the user:-
+>>Tell me something about UPES
+>>quit
+The number of questions which Ciphor failed to understand:0
+*********************************************************************
+Thu Nov 26 16:15:18 2020
+*********************************************************************
+Name of the user:Aakarsh Singh
+Questions asked by the user:-
+>>Hi
+>>How are you
+>>Tell me something about UPES
+>>What courses do you offer
+>>1
+>>Thanks Ciphor
+>>quit
+Rating given by user (1-Good  2-Average 3-Poor):2
+Queries resolved (1-Yes 2-No):1
+Fluency (1-Yes 2-No):2
+The number of questions which Ciphor failed to understand:0
+*********************************************************************
+Mon Nov 30 15:50:15 2020
+*********************************************************************
+Name of the user:Amitabh Bacchan
+Questions asked by the user:-
+>>Hi
+>>How you doin
+>>I am also fine
+>>Tell me something about UPES
+>>What courses do you offer
+>>1
+>>What documents do I need to bring for regisration
+>>How do I get admission
+>>Thank you
+>>quit
+Rating given by user (1-Good  2-Average 3-Poor):2
+Queries resolved (1-Yes 2-No):1
+Fluency (1-Yes 2-No):2
+The number of questions which Ciphor failed to understand:1
+*********************************************************************
